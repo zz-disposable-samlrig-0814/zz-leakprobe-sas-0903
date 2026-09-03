@@ -1,0 +1,7 @@
+{
+  "name": "leakprobe",
+  "version": "1.0.0",
+  "dependencies": {
+    "@mr-benty/definitely-not-a-package": "^1.0.0"
+  }
+}
